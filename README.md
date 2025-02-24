@@ -7,9 +7,9 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 - 👯 I’m looking to collaborate on open-source projects that can make a significant impact.
 - 🤔 I’m looking for help with advanced machine learning techniques and best practices.
 - 💬 Ask me about JavaScript, TypeScript, React, Node.js, and Python.
-- 📫 How to reach me: [Email](mailto:haritzotero@example.com)
+- 📫 How to reach me: [Email](mailto:haritzotero@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love hiking and exploring new places during my free time.
+- ⚡ Fun fact: I love playing waterpolo during my free time.
 
 ## My GitHub Stats 📊
 
